@@ -25,16 +25,13 @@ I love learning new technologies and constantly improving my skills.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-FFFFFF?style=flat&logo=openjdk)
-
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
