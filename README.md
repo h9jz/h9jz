@@ -2,7 +2,7 @@
 
 [![Matrix Badge](https://img.shields.io/badge/matrix-@yourhandle:matrix.org-blue?logo=matrix)](https://matrix.to/#/@yourhandle:matrix.org)
 [![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?logo=twitter&style=flat)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/email-your.email@domain.com-red?style=flat&logo=gmail)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/email-your.email@domain.com-red?style=flat&logo=gmail)](mailto:cezar@cezi.lol)
 ![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Total+Visits&color=brightgreen)
 
 ---
