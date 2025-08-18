@@ -1,9 +1,8 @@
 # Hi there, nice to see you! 😎
 
-[![Matrix Badge](https://img.shields.io/badge/matrix-@yourhandle:matrix.org-blue?logo=matrix)](https://matrix.to/#/@yourhandle:matrix.org)
-[![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?logo=twitter&style=flat)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/email-your.email@domain.com-red?style=flat&logo=gmail)](mailto:cezar@cezi.lol)
-![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Total+Visits&color=brightgreen)
+[![Discord](https://img.shields.io/badge/discord-YourDiscordTag-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1406389573990355055)
+![Visits](https://komarev.com/ghpvc/?username=h9jz&label=Total+Visits&color=brightgreen)
 
 ---
 
