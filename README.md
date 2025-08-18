@@ -8,7 +8,7 @@
 ---
 
 Welcome to my Github!  
-I'm **[Your Name]**, a developer based in [Your Country]. Passionate about building efficient and user-friendly applications.  
+I'm **Cezar**, a developer based in Romania. Passionate about building efficient and user-friendly applications.  
 I love learning new technologies and constantly improving my skills.
 
 ---
