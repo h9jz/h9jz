@@ -1,7 +1,7 @@
 # Hi there, nice to see you! 😎
 
-[![Email](https://img.shields.io/badge/email-your.email@domain.com-red?style=flat&logo=gmail)](mailto:cezar@cezi.lol)
-[![Discord](https://img.shields.io/badge/discord-YourDiscordTag-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1406389573990355055)
+[![Email](https://img.shields.io/badge/email-cezar@cezi.lol-red?style=flat&logo=gmail)](mailto:cezar@cezi.lol)
+[![Discord](https://img.shields.io/badge/discord-h9jz-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1406389573990355055)
 ![Visits](https://komarev.com/ghpvc/?username=h9jz&label=Total+Visits&color=brightgreen)
 
 ---
