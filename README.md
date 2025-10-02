@@ -14,7 +14,6 @@ I love learning new technologies and constantly improving my skills.
 
 ## 🧠 Technologies
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
